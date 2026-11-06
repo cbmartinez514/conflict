@@ -6,7 +6,7 @@ void foo();
 int main()
 {
 
-    cout << "hello world\n";
+    cout << "greetings\n";
     return 0;
 }
 
